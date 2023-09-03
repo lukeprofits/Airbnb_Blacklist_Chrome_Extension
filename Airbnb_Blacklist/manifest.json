@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Airbnb Blacklist Extension",
+  "version": "1.0",
+  "description": "Allows users to ignore Airbnb listings.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.airbnb.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
