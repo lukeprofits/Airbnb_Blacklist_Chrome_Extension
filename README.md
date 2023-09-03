@@ -2,7 +2,7 @@
 A chrome extension that lets you blacklist Airbnb results that you do not want to see again.
 
 # About
-I made this for fun in a couple hours for a random reddit user that requested it. 
+I made this for fun in a couple hours for [a random reddit user that requested it](https://reddit.com/r/Entrepreneur/s/aORRGfUYnI). 
 
 # How To Use: 
 * [Download the files by clicking here](https://github.com/lukeprofits/Airbnb_Blacklist_Chrome_Extension/archive/refs/heads/main.zip). 
