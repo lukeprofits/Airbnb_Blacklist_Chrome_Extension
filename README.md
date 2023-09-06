@@ -14,4 +14,6 @@ I made this for fun in a couple hours for [a random reddit user that requested i
 * If you want to stop hiding search results, go back to `chrome://extensions/` and remove the extension.
 
 # Donate
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/lukeprofits)
+
 Cash App: `$LukeProfits`
